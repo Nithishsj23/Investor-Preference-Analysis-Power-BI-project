@@ -1,5 +1,10 @@
 ### 📊 Investor Analytics & Insights Dashboard  
 
+
+![Dashboard]([https://github.com/username/repo-name/blob/main/images/dashboard.png?raw=true](https://github.com/Nithishsj23/Investor-Preference-Analysis-Power-BI-project/blob/main/Dashboard-image.png))
+
+
+
 #### 🔍 Overview  
 This project focuses on analyzing investor data to identify preferences, risk appetites, and market trends, enabling data-driven decision-making. The solution leverages **Power BI** to design optimized data models, build interactive dashboards, and provide actionable insights for investment strategies.  
 
