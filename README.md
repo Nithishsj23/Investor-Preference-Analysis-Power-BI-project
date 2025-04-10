@@ -1,7 +1,7 @@
 ### 📊 Investor Analytics & Insights Dashboard  
 
+![Dashboard Preview](https://github.com/Nithishsj23/Investor-Preference-Analysis-Power-BI-project/blob/main/Dashboard-image.png?raw=true)
 
-![Dashboard]([https://github.com/username/repo-name/blob/main/images/dashboard.png?raw=true](https://github.com/Nithishsj23/Investor-Preference-Analysis-Power-BI-project/blob/main/Dashboard-image.png))
 
 
 
